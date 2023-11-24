@@ -4,6 +4,7 @@ void main() {
   runApp(const MyApp());
 }
 
+//pod dev branch Dalsi dopnle
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
@@ -31,7 +32,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page PRIDAVEK'),
+      home: const MyHomePage(title: 'CCCxxxDEVICKO Demo Home Page PRIDAVEK 33'),
     );
   }
 }
