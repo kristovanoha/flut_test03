@@ -10,6 +10,8 @@ import 'package:flutter_test/flutter_test.dart';
 
 import 'package:flut_test03/main.dart';
 //vetev DEV sss   ZA devem
+
+//pridavek CO NECHCI aaa
 //TOHLE je navis
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
