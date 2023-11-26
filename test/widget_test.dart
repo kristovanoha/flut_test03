@@ -9,7 +9,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 //NAVIC POKUS
 import 'package:flut_test03/main.dart';
-//dsfsfad DDsdfsdf  VETEV POKUS sssss    AAAAAAAA rrs
+//dsfsfad DDsdfsdf  VETEV POKUS sssss    AAAAAAAA rrs NENENEN
 
 //TERROR sfds
 void main() {
