@@ -9,8 +9,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 import 'package:flut_test03/main.dart';
-//vetev DEV sss   ZA devem
-//TOHLE je navis
+//vetev DEV sss
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
     // Build our app and trigger a frame.
