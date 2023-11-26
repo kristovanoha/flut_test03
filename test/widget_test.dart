@@ -9,7 +9,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 //NAVIC POKUS
 import 'package:flut_test03/main.dart';
-//dsfsfad DDsdfsdf  VETEV POKUS sssss
+//dsfsfad DDsdfsdf  VETEV POKUS sssss    AAAAAAAA
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
     // Build our app and trigger a frame.
