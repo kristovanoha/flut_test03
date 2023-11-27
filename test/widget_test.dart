@@ -11,6 +11,11 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:flut_test03/main.dart';
 //vetev DEV sss
 //HELLOS
+
+
+//tohle je hotfix kety vychazi z devu
+
+
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
     // Build our app and trigger a frame.
