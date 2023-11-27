@@ -12,14 +12,7 @@ import 'package:flut_test03/main.dart';
 //dsfsfad  MASTER
 
 
-//DRUHA featura  cococ 
-
-// dalsi vklad v  masteru
-
-// develope  zaklad
-
-// PRVNI FUNKCINONALITY 
-//MUJ HOTFIX
+//TERRRRRRRRRRRRRRRRRRRRRRooooooooooooooorrrrrrrrrrrr
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
     // Build our app and trigger a frame.
