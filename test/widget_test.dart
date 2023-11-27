@@ -13,6 +13,9 @@ import 'package:flut_test03/main.dart';
 
 // dalsi vklad v  masteru
 
+
+
+// PRVNI FUNKCINONALITY 
 //MUJ HOTFIX
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
