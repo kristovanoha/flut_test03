@@ -13,7 +13,7 @@ import 'package:flut_test03/main.dart';
 
 // dalsi vklad v  masteru
 
-
+// develope  zaklad
 
 // PRVNI FUNKCINONALITY 
 //MUJ HOTFIX
