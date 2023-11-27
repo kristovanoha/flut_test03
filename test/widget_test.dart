@@ -11,6 +11,9 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:flut_test03/main.dart';
 //dsfsfad  MASTER
 
+
+//DRUHA featura  cococ 
+
 // dalsi vklad v  masteru
 
 // develope  zaklad
